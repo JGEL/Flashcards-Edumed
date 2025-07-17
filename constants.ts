@@ -760,35 +760,35 @@ export const INITIAL_CARDS: FlashcardData[] = [
     id: 152,
     concept: "Variable (Variable)",
     definition: "Cantidad, atributo, fenómeno o episodio que puede asumir cualquiera de un grupo de valores: La variable independiente es una característica que es observada o medida y que se considera que influye en un episodio o manifestación (la variable dependiente) en el área definida de las relaciones estudiadas. En el contexto de la educación médica, es un factor que puede explicar o predecir los resultados del currículum como puede ser el propio currículum en sí mismo, la enseñanza previa o concurrente y los factores del entorno educativo. La variable dependiente es una manifestación o resultado cuya variación permite explicar o tener en cuenta la influencia de las variables independientes. Puede ser el resultado de un programa, como el conocimiento o las capacidades obtenidos, la actuación en la vida real y los resultados clínicos. Una medida prudente es la de utilizar pocas variables dependientes y sólo las que sean más relevantes para las cuestiones principales de evaluación; de la misma manera, es razonable utilizar sólo las variables dependientes relacionadas más probablemente con los resultados obtenidos mediante el programa de asignaturas."
-  }
+  },
   {
     id: 153,
     concept: "SEDEM",
     definition: "Es el acrónimo de la Sociedad Española de Educación Médica y de las Ciencias de la Salud. La SEDEM es la Sociedad Científica oficial, en España, de los interesados en la formación de los profesionales de todas las profesiones sanitarias."
-  }
+  },
   {
     id: 154,
     concept: "Inteligencia artificial en educación médica",
     definition: "Uso de algoritmos y sistemas inteligentes para personalizar el aprendizaje, analizar datos y apoyar la toma de decisiones clínicas."
-  }
+  },
   {
     id: 155,
     concept: "Redes sociales en educación médica",
     definition: "Plataformas digitales que facilitan el intercambio de conocimientos y la colaboración entre profesionales y estudiantes."
-  }
+  },
   {
     id: 156,
     concept: "Aula invertida (flipped classroom)",
     definition: "Metodología donde los estudiantes revisan contenidos teóricos fuera del aula y emplean el tiempo presencial en actividades prácticas y resolución de problemas."
-  }
+  },
   {
     id: 157,
     concept: "Profesionalismo",
     definition: "Conjunto de valores, actitudes y comportamientos éticos que debe demostrar el médico en su práctica diaria."
-  }
+  },
   {
     id: 158,
     concept: "Habilidades blandas (soft skills)",
     definition: "Son un conjunto de competencias personales, sociales e interpersonales que permiten a una persona relacionarse, comunicarse y trabajar eficazmente con otros en diferentes contextos, especialmente en el ámbito profesional. A diferencia de las habilidades técnicas o “duras”, las habilidades blandas no se relacionan directamente con el conocimiento específico de una disciplina, sino con la manera en que las personas interactúan, se adaptan y resuelven situaciones en su entorno. En medicina y en salud, estas habilidades son fundamentales para mejorar la atención al paciente, facilitar la colaboración entre profesionales y promover un ambiente laboral positivo."
-  }
+  },
 ];
