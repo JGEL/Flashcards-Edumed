@@ -1,0 +1,6 @@
+{
+  "name": "Flashcards de Educación Médica",
+  "description": "Una aplicación de flashcards simple y elegante para estudiar conceptos de educación médica. Los usuarios pueden voltear las tarjetas para ver las definiciones y agregar sus propias tarjetas nuevas al mazo.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
